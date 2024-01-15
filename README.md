@@ -1,5 +1,5 @@
 ### Hi there 👋
-![git-hub-readme-stats](https://git-hub-readme-stats-clone-t15t.vercel.app/api/top-langs/?username=miumiu225)
+![github-readme-stats](https://github-readme-stats-eight-khaki-74.vercel.app/api?username=miumiu225)
 
 Here are some ideas to get you started:
 
