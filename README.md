@@ -1,6 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api/top-langs?username=MiuMiu225&count-private=true&show_icons=true&locale=en&layout=compact)
-
+![git-hub-readme-stats](https://git-hub-readme-stats-clone-three-bay.vercel.app/api/top-langs/?username=miumiu225)
 
 Here are some ideas to get you started:
 
